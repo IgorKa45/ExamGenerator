@@ -1,4 +1,4 @@
-package com.skypro.ExamGenerator;
+package org.skypro.ExamGenerator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
